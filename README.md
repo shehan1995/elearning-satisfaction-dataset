@@ -1,1 +1,9 @@
-# elearning-satisfaction-dataset
+# e - learning-satisfaction-dataset
+
+Research question will be “Predicting satisfaction among the students on e-learning under the pandemic situation”. 
+
+Survey will be conducted including government universities and private universities in Sri Lanka. Expected sample size is 150 including several universities and several faculties covering different society levels. Plan is to cover 6 universities including government and private including 4 faculties.
+
+Main sample collection method will be sending questionnaire through emails for undergraduate students. Apart from sending emails, questionnaire will be shared through university student groups.
+
+Questionnaire will be included standard and specific demographic factors and questions to measure the satisfaction on e-learning. Analysis will be conducted on End User Computing Satisfaction. For this will consider five indicators, namely content on e-learning, accuracy, format, ease of use and timelines. Satisfaction on the content of the courses on e-learning will be measured in questionnaire using quantitative values. Measurement on availability of the content also will include in the questionnaire. Accuracy of e-learning will be measured by suitability of the materials and tasks presented in e-learning. Questionnaire will include questions to measure this aspect. Availability of space to access material, space to collect and see the value of assignments, and space to communicate will be the indication for format indicator in the analysis. Ease of use will be measured on easiness to access e-learning platform and material in it. Connectivity issues and availability of the platform will be considered in this indicator. The timeliness dimension is a measurement of student satisfaction in terms of online learning timeliness using e-learning. In this study, timeliness refers to the time provided to students in learning material and doing assignments. Analysis will be conducted based on the above mentioned indicators and questionnaire will be prepared to cover all these aspects properly. Planned to use descriptive statistical analysis based on the questionnaire.
