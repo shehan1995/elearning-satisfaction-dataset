@@ -1,0 +1,106 @@
+What’s your university?,In which faculty do you study?,What is the year of study?,Which district are you living in?,Gender,Do you prefer the concept of distance learning?,Do you have a reliable internet connection?,Are you comfortable and familiar with the required technologies and applications?,Do you clear which technologies and applications are required to use?,"Do you have any difficulty in accessing reliable communication software/tools (e.g, MS Teams, Zoom, Google Hangout)","Can you always access specialized software for your study (eg. statistical packages, drawing packages, coding softwares)",Can you always access library resource,Can you always find time to participate in synchronous classes (eg. Live streaming lectures or video conferencing at a set time),Can you always find time for class meeting and schedules,"In general, is your instructors are available or responsive.",Are you clear about your course/assignment requirements,Methods of adjusted/modified assessment on this transition period are appropriate for evaluating achievement of the intended learning outcomes.,The criteria used for adjusted/modified assessment marking were clear.,The adjusted/modified assessment was effective in helping learn.,Do you feel that your course lessons or activities have been well delivered in the online environment?,"In general, is your instructors are comfortable or familiar with the required technologies or applications.",Do you  concerned about recording online lessons delivered and making the video accessible to students thereafter,Rating for overall content of the courses,Rating for overall accuracy of the e-learning content,Rating for the overall format of the courses,Rating for the easy accessibility,Rating for timeliness of the course
+University of Moratuwa,Engineering,4th year,Kegalle,Female,5,4,5,4,1,5,5,5,5,4,5,4,3,4,5,5,1,5,5,5,5,5
+Informatics Institute of Technology,Engineering,4th year,Gampaha,Male,2,1,5,5,3,5,4,4,5,5,4,5,4,4,3,4,5,4,4,4,3,4
+Sri Lanka Institute of Information Technology,IT,4th year,Hambantota,Female,4,4,4,4,1,2,2,5,5,5,4,4,4,4,4,3,4,4,4,4,5,4
+Informatics Institute of Technology,IT,4th year,Colombo,Male,1,3,5,5,5,5,3,3,3,4,3,4,4,4,4,4,4,4,4,4,4,4
+University of Moratuwa,Engineering,4th year,Gampaha,Male,4,4,3,4,4,4,4,4,4,3,4,3,4,5,4,3,4,5,4,3,4,4
+University of Colombo School of Computing,Engineering,2nd year,Puttalam,Female,5,3,4,4,3,4,5,3,5,3,4,5,4,3,4,4,5,4,5,5,4,4
+University of Jaffna,Engineering,2nd year,Vavuniya,Male,4,2,2,3,3,2,2,3,3,2,2,2,3,2,2,3,3,3,2,2,3,2
+University of Peradeniya,Medicine,3rd year,Colombo,Female,2,5,4,4,4,4,5,2,4,4,4,4,5,4,1,4,4,2,2,2,4,4
+University of Peradeniya,Medicine,1st year,Kalutara,Female,1,5,4,4,4,4,4,4,4,4,4,3,2,2,4,4,3,2,2,2,4,4
+University of Jayawardhanapura,Management & Finance,3rd year,Colombo,Male,5,4,5,4,3,4,5,4,4,5,3,4,4,5,4,5,3,4,5,4,4,5
+Informatics Institute of Technology,IT,2nd year,Kurunegala,Female,5,5,5,5,4,5,5,4,5,4,5,4,5,4,4,4,5,4,4,4,5,4
+University of Colombo,Medicine,2nd year,Kandy,Female,2,5,4,4,3,4,3,3,4,3,4,3,3,4,3,4,4,4,4,4,3,3
+General Sir John Kothalawala Defence University,Law,2nd year,Hambantota,Female,4,4,5,4,4,4,4,5,4,4,5,4,4,5,4,4,5,4,4,5,4,4
+University of Jayawardhanapura,Business,2nd year,Hambantota,Female,4,4,5,4,4,4,5,4,5,4,4,4,4,5,4,5,4,4,4,4,5,4
+University of Moratuwa,Engineering,4th year,Gampaha,Female,5,5,1,1,5,5,5,3,3,4,2,2,2,2,4,2,2,2,3,3,4,2
+University of Kelaniya,Arts,2nd year,Matara,Female,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4
+Informatics Institute of Technology,IT,1st year,Matara,Male,5,5,4,4,5,4,4,5,5,4,4,5,4,4,5,4,4,5,5,4,5,4
+Informatics Institute of Technology,Engineering,2nd year,Puttalam,Female,1,4,4,4,2,5,3,2,4,5,4,4,3,4,4,4,4,3,4,5,4,3
+University of Moratuwa,IT,3rd year,Vavuniya,Male,4,1,4,1,5,5,4,4,4,5,4,4,2,4,4,4,4,4,5,4,5,5
+University of Colombo School of Computing,IT,1st year,Colombo,Male,3,4,3,4,5,4,4,4,3,3,4,5,4,4,4,4,5,3,3,3,2,2
+University of Jaffna,Engineering,3rd year,Kalutara,Female,4,5,4,5,4,5,4,4,5,4,4,2,2,5,4,5,2,4,4,2,2,2
+University of Peradeniya,Engineering,2nd year,Colombo,Male,3,4,4,4,5,5,5,4,4,5,3,2,5,3,3,3,2,4,3,2,2,2
+University of Peradeniya,Engineering,2nd year,Kurunegala,Female,2,2,4,2,5,4,3,4,5,5,5,2,4,4,5,4,2,5,3,4,5,4
+University of Jayawardhanapura,Medicine,2nd year,Kandy,Female,5,1,5,1,4,4,4,2,4,4,2,5,4,5,2,5,5,4,5,4,4,4
+Informatics Institute of Technology,Medicine,2nd year,Hambantota,Male,5,5,4,5,4,5,5,4,2,4,4,4,5,4,4,4,4,4,4,4,4,4
+University of Colombo,Management & Finance,2nd year,Hambantota,Female,4,5,4,5,5,4,4,5,4,3,5,4,5,4,5,4,4,4,5,4,4,5
+General Sir John Kothalawala Defence University,Engineering,4th year,Gampaha,Female,5,2,4,2,4,5,4,3,4,4,3,4,4,5,3,5,4,5,4,4,4,4
+General Sir John Kothalawala Defence University,Arts,2nd year,Matara,Female,5,4,1,4,5,4,5,4,4,4,4,4,4,4,4,4,4,3,4,2,3,4
+University of Jayawardhanapura,IT,1st year,Colombo,Female,4,4,4,4,4,1,4,3,4,4,4,3,4,5,4,5,3,4,4,4,2,4
+University of Moratuwa,Engineering,2nd year,Kurunegala,Female,4,3,4,3,1,4,5,4,4,5,2,5,4,2,2,2,5,4,3,2,4,3
+University of Kelaniya,IT,1st year,Kandy,Female,5,4,4,2,4,5,2,4,4,3,4,5,3,2,4,2,5,4,5,5,2,4
+Informatics Institute of Technology,IT,2nd year,Hambantota,Male,4,4,1,5,5,4,2,5,3,4,4,4,5,2,4,2,4,5,5,4,5,4
+Informatics Institute of Technology,Engineering,3rd year,Hambantota,Female,5,4,4,5,5,2,2,4,5,5,3,5,2,5,3,5,4,3,4,4,4,2
+University of Moratuwa,Engineering,1st year,Gampaha,Female,4,5,5,4,4,1,5,3,2,4,2,3,4,4,2,4,3,4,4,5,4,4
+University of Colombo School of Computing,IT,3rd year,Matara,Male,1,4,4,5,5,5,4,2,4,4,4,4,5,4,4,4,4,5,3,5,5,5
+University of Jaffna,Engineering,2nd year,Matara,Female,4,4,2,5,4,5,3,5,5,5,4,4,3,4,4,4,4,4,4,4,5,4
+University of Peradeniya,Engineering,2nd year,Puttalam,Female,5,4,1,4,2,5,4,5,3,4,4,2,4,5,4,5,2,4,4,4,4,4
+University of Colombo School of Computing,Engineering,2nd year,Vavuniya,Female,4,1,5,4,4,2,2,4,4,3,4,5,4,3,4,4,4,5,2,4,4,5
+University of Jaffna,Medicine,2nd year,Colombo,Female,5,4,5,5,4,5,3,5,4,5,3,4,2,5,3,4,5,4,4,4,4,2
+University of Peradeniya,Medicine,2nd year,Kalutara,Female,4,4,2,4,4,4,4,5,4,2,4,4,4,4,4,5,4,5,5,3,4,2
+University of Peradeniya,Management & Finance,4th year,Colombo,Female,2,4,4,5,4,4,5,4,2,4,4,5,4,4,4,4,4,2,4,5,3,2
+University of Jayawardhanapura,Engineering,2nd year,Kurunegala,Male,1,1,4,4,4,2,2,4,5,5,4,5,3,4,4,5,5,2,4,2,5,5
+Informatics Institute of Technology,Arts,4th year,Kandy,Female,5,4,3,1,4,4,5,5,4,3,5,4,2,3,5,2,2,2,5,4,2,4
+University of Colombo,IT,2nd year,Hambantota,Male,5,5,2,4,3,4,4,4,4,4,4,4,5,4,4,2,2,5,2,5,4,4
+General Sir John Kothalawala Defence University,Engineering,1st year,Hambantota,Male,2,4,5,5,5,4,5,5,5,4,4,4,5,4,4,2,2,4,2,3,5,4
+General Sir John Kothalawala Defence University,IT,2nd year,Gampaha,Female,4,5,5,4,2,5,5,4,5,2,4,4,4,4,4,5,5,4,2,4,3,4
+University of Jayawardhanapura,IT,3rd year,Matara,Male,4,4,4,5,4,4,3,1,4,4,1,3,5,5,1,4,4,3,5,4,4,3
+University of Jaffna,Engineering,1st year,Matara,Female,5,2,5,4,5,4,4,4,4,4,4,5,5,3,4,4,4,5,4,2,4,5
+University of Moratuwa,Engineering,3rd year,Puttalam,Female,4,1,5,2,3,4,5,5,4,3,4,2,4,4,4,4,4,2,4,4,2,5
+University of Moratuwa,IT,2nd year,Vavuniya,Male,5,5,4,5,4,5,5,4,4,2,4,4,4,5,4,4,4,4,4,4,4,4
+University of Jayawardhanapura,Engineering,2nd year,Colombo,Female,1,5,4,4,4,4,4,5,3,4,1,5,5,4,1,3,3,5,4,3,4,5
+General Sir John Kothalawala Defence University,Engineering,2nd year,Kalutara,Female,4,2,5,1,4,4,4,4,5,2,4,3,4,4,4,2,5,3,3,2,3,3
+University of Moratuwa,Engineering,2nd year,Colombo,Female,3,4,4,4,4,5,3,2,2,5,5,4,5,5,5,4,5,4,5,5,5,4
+University of Colombo School of Computing,IT,2nd year,Kurunegala,Female,4,4,5,5,4,5,4,2,4,4,4,4,4,4,4,2,4,4,5,5,2,4
+Informatics Institute of Technology,Engineering,4th year,Kandy,Female,3,5,4,4,4,4,4,1,5,4,2,2,1,5,2,5,5,2,4,4,4,4
+Informatics Institute of Technology,IT,2nd year,Hambantota,Female,4,4,5,5,3,5,4,5,3,5,1,4,4,2,1,4,3,4,5,5,4,4
+General Sir John Kothalawala Defence University,Engineering,1st year,Hambantota,Male,5,4,4,4,4,5,5,5,4,5,1,4,5,2,4,4,5,4,3,5,4,3
+University of Jaffna,Engineering,2nd year,Gampaha,Female,4,3,1,4,4,4,3,2,4,4,5,3,4,2,4,5,4,3,4,4,4,4
+University of Moratuwa,Engineering,1st year,Matara,Female,5,2,2,4,4,4,4,4,2,4,4,2,5,5,2,5,5,2,2,4,4,4
+University of Peradeniya,Medicine,2nd year,Colombo,Male,4,5,1,5,5,5,5,4,4,4,4,5,4,4,4,4,3,4,4,5,5,4
+University of Colombo,Medicine,3rd year,Kurunegala,Male,2,5,5,4,4,4,4,3,3,4,4,5,2,4,5,4,4,4,4,4,3,5
+University of Jayawardhanapura,Management & Finance,4th year,Kandy,Female,1,4,5,4,4,5,4,2,5,3,5,4,1,4,4,4,4,4,3,5,4,3
+Informatics Institute of Technology,IT,2nd year,Hambantota,Male,5,5,2,4,4,4,5,5,5,5,3,5,5,4,4,4,2,4,2,4,5,4
+University of Colombo,Medicine,4th year,Hambantota,Male,5,5,4,1,1,1,4,5,4,2,4,5,5,3,5,3,5,3,4,1,4,5
+University of Kelaniya,Law,2nd year,Gampaha,Female,2,4,4,4,4,4,5,4,5,4,3,4,2,2,2,5,4,4,2,4,4,4
+Sri Lanka Institute of Information Technology,Business,1st year,Hambantota,Male,4,4,3,4,4,5,2,5,3,5,3,4,4,4,2,2,4,4,5,5,5,4
+Sri Lanka Institute of Information Technology,Engineering,2nd year,Hambantota,Female,4,5,4,4,4,4,2,5,4,3,5,5,4,2,2,4,5,4,4,4,4,5
+University of Kelaniya,Arts,3rd year,Gampaha,Female,5,4,4,1,1,2,2,4,5,4,4,4,5,5,5,5,5,5,4,4,5,4
+Informatics Institute of Technology,IT,1st year,Matara,Male,4,5,4,4,4,5,3,4,5,4,5,5,4,4,4,3,4,4,5,4,2,5
+Sri Lanka Institute of Information Technology,Engineering,3rd year,Matara,Female,5,4,5,5,5,5,2,5,4,2,4,4,5,4,4,4,4,4,5,3,2,2
+Informatics Institute of Technology,IT,2nd year,Puttalam,Female,5,1,4,4,4,4,5,4,4,4,2,1,1,5,4,4,4,4,4,5,2,2
+Informatics Institute of Technology,IT,2nd year,Vavuniya,Female,4,4,4,2,2,4,5,5,5,4,4,4,4,5,4,2,4,1,4,5,5,2
+University of Jaffna,Engineering,2nd year,Colombo,Female,5,5,4,1,1,5,4,4,4,3,4,5,3,4,3,4,3,4,4,4,4,5
+University of Moratuwa,Engineering,2nd year,Kalutara,Female,5,5,4,4,5,4,5,1,5,2,4,4,4,4,5,4,5,4,4,5,4,4
+University of Kelaniya,Arts,2nd year,Colombo,Female,4,5,4,4,4,5,5,4,4,5,4,5,3,4,5,3,2,4,3,3,4,4
+University of Moratuwa,IT,4th year,Kurunegala,Male,4,5,5,2,5,4,4,5,1,5,5,4,4,4,4,5,4,1,5,4,5,4
+University of Moratuwa,Engineering,1st year,Kandy,Female,5,2,2,4,4,1,4,4,4,4,2,2,5,3,5,2,5,4,2,4,3,4
+Informatics Institute of Technology,IT,2nd year,Hambantota,Male,4,5,2,1,2,4,5,5,5,5,2,1,4,5,3,4,3,5,4,4,5,3
+University of Moratuwa,IT,1st year,Hambantota,Male,5,4,2,4,5,5,4,4,4,5,2,5,5,2,5,4,4,4,5,4,4,2
+Informatics Institute of Technology,Engineering,2nd year,Gampaha,Female,4,4,5,3,4,4,5,2,2,4,5,5,4,4,4,5,4,2,3,3,4,4
+University of Moratuwa,Engineering,3rd year,Matara,Male,5,2,4,4,1,5,4,5,5,4,4,2,2,5,5,3,2,1,4,4,4,2
+University of Moratuwa,IT,4th year,Matara,Female,4,4,4,3,4,4,1,4,5,5,4,4,1,3,3,5,4,1,4,4,3,5
+General Sir John Kothalawala Defence University,Engineering,2nd year,Puttalam,Female,1,4,4,4,5,2,4,1,4,4,4,4,5,4,4,4,4,5,2,4,4,4
+University of Jaffna,Engineering,4th year,Hambantota,Female,2,4,4,5,4,2,5,4,4,5,4,5,5,4,4,5,3,4,4,5,4,4
+University of Moratuwa,Engineering,2nd year,Hambantota,Male,1,5,3,4,5,1,5,5,5,4,3,4,2,2,2,4,2,4,4,3,4,5
+University of Colombo School of Computing,IT,1st year,Gampaha,Female,5,4,5,5,4,5,5,4,4,1,5,5,4,4,5,2,5,4,3,4,5,5
+University of Peradeniya,Engineering,2nd year,Matara,Female,5,4,5,4,4,5,5,5,5,4,5,1,4,4,4,4,5,5,2,5,3,4
+University of Colombo,IT,3rd year,Colombo,Male,2,4,4,2,4,2,3,4,4,5,4,4,5,1,4,4,4,3,5,4,4,4
+University of Colombo School of Computing,Engineering,2nd year,Kurunegala,Male,4,5,5,1,5,4,4,4,1,4,4,3,4,4,5,4,5,4,5,4,5,4
+University of Peradeniya,Engineering,4th year,Kandy,Female,4,4,3,5,4,4,3,4,4,5,3,4,5,5,5,4,5,3,4,5,4,4
+University of Colombo,Engineering,2nd year,Hambantota,Male,3,4,4,5,4,3,4,5,5,4,4,3,5,4,4,5,4,3,5,4,4,3
+University of Peradeniya,Medicine,4th year,Hambantota,Male,4,5,3,2,4,2,5,4,4,2,4,4,4,5,4,2,4,4,5,5,5,5
+University of Colombo,Medicine,2nd year,Gampaha,Female,4,5,3,4,1,5,4,4,5,1,2,5,4,4,4,2,5,3,4,2,5,2
+University of Jayawardhanapura,Management & Finance,1st year,Hambantota,Male,4,4,5,4,5,5,5,4,4,5,4,4,5,2,4,2,4,4,4,2,4,4
+University of Jayawardhanapura,Management & Finance,2nd year,Hambantota,Female,5,5,4,5,4,4,4,1,2,5,5,5,4,2,3,5,5,5,5,2,5,5
+Sri Lanka Institute of Information Technology,IT,3rd year,Gampaha,Female,4,5,5,4,5,5,2,4,2,2,4,4,5,1,5,4,4,4,4,5,5,3
+University of Peradeniya,Medicine,1st year,Matara,Male,5,4,4,5,4,5,1,4,1,4,4,5,4,5,2,4,1,5,5,4,4,4
+University of Kelaniya,Law,3rd year,Kegalle,Female,5,4,4,5,2,4,5,4,5,4,5,2,4,5,4,4,4,4,4,4,4,4
+University of Moratuwa,Business,2nd year,Gampaha,Male,4,5,4,4,5,4,5,1,5,5,2,4,4,2,5,4,5,2,1,4,5,2
+University of Peradeniya,Medicine,2nd year,Hambantota,Female,4,4,3,5,4,5,2,4,2,4,2,4,5,4,3,3,4,1,4,4,4,4
+University of Colombo,Medicine,2nd year,Colombo,Male,5,4,5,5,1,4,4,5,4,5,2,3,4,4,4,5,5,5,5,3,1,4
+University of Jayawardhanapura,Management & Finance,2nd year,Gampaha,Male,4,5,5,5,4,5,4,4,4,2,5,2,4,3,4,4,4,5,4,2,5,3
+University of Jayawardhanapura,Management & Finance,2nd year,Puttalam,Female,5,4,4,4,5,4,5,2,3,4,4,5,4,2,4,5,2,2,5,4,5,5
+University of Moratuwa,IT,4th year,Vavuniya,Male,4,5,4,5,4,1,4,1,2,3,4,5,1,5,5,3,1,4,4,2,2,2
+University of Peradeniya,Medicine,2nd year,Colombo,Female,1,4,3,5,5,4,5,3,5,2,4,4,4,5,5,2,5,4,2,5,4,4
